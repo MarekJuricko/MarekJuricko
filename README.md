@@ -18,11 +18,3 @@ Frontend developer
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MarekJuricko"><img src="https://github-readme-stats.vercel.app/api?username=MarekJuricko&show_icons=true&hide=stars,contribs&title_color=a855f7&text_color=84cc16&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="MarekJuricko's GitHub stats" /></a>
-
-<a href="https://github.com/MarekJuricko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarekJuricko&langs_count=10&title_color=a855f7&text_color=84cc16&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
